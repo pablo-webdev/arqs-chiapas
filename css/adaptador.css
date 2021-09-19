@@ -1,0 +1,10 @@
+.ihc {
+    height: 250px;
+    object-fit: cover;
+}
+
+@media screen and (max-width: 970px){
+    .ihc {
+        height: 200px;
+    }
+}
